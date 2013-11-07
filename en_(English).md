@@ -13,8 +13,8 @@
 Telephone: `Insert telephone number if available`
 Email: `Insert email if available`
 
-## Regulatory Authority `This section is required if you have a registered company or organization`
-Register Entry: Registered in the Commercial Register.
+## Register Entry: `This section is required if you have a registered company or organization`
+Registered in the Commercial Register.
 Court of registration: `Insert Handelsregister, i.e., Munich`
 Registration number: `Insert registration number`
 
