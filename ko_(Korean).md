@@ -14,8 +14,7 @@
 전화번호: `Insert telephone number if available`
 이메일: `Insert email if available`
 
-## 관리 당국 `This section is required if you have a registered company or organisation`
-### 사업자 등록:
+## 사업자 등록: `This section is required if you have a registered company or organisation`
 상업 등기 등록
 등록 법원: `Insert Handelsregister, i.e., Munich`
 사업자 등록번호: `Insert registration number`
