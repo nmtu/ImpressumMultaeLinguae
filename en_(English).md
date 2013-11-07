@@ -11,11 +11,10 @@
 
 ## Contact: `Note: you're required to provide contact info`
 Telephone: `Insert telephone number if available`
-Fax: `Insert fax number if available`
 Email: `Insert email if available`
 
-## Regulatory Authority:
-Registered in the Commercial Register.
+## Regulatory Authority `This section is required if you have a registered company or organization`
+Register Entry: Registered in the Commercial Register.
 Court of registration: `Insert Handelsregister, i.e., Munich`
 Registration number: `Insert registration number`
 
